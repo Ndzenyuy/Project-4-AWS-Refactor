@@ -11,3 +11,8 @@ In project 3, I deployed the artifact on AWS using lift-and-shift migration stra
 - Route53
 
 ## Project Architecture
+![Project Architecture](https://github.com/Ndzenyuy/Project-4-AWS-Refactor/blob/aws-Refactor/images/aws-refactor.jpg)
+
+## Results
+![](https://github.com/Ndzenyuy/Project-4-AWS-Refactor/blob/aws-Refactor/images/Screenshot%20from%202023-07-18%2020-59-20.png)
+![](https://github.com/Ndzenyuy/Project-4-AWS-Refactor/blob/aws-Refactor/images/Screenshot%20from%202023-07-18%2020-39-15.png)
